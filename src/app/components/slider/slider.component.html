@@ -1,0 +1,15 @@
+<div class="container">
+    Tamaño del Slider: <Strong>{{anchura}}</Strong>
+    Captions: <Strong>{{captions}}</Strong>
+    <h1 class="slider-h1">Utilizando Jquery por npm y un pluglin localmente</h1>
+    
+    <div class="slider">
+        <div class="galeria">
+            <div><img [src]="'https://via.placeholder.com/' + anchura + 'x' + anchura" title="Coffee 1" /></div>
+            <div><img [src]="'https://via.placeholder.com/' + anchura + 'x' + anchura" title="Coffee 2" /></div>
+            <div><img [src]="'https://via.placeholder.com/' + anchura + 'x' + anchura" title="Coffee 3" /></div>
+        </div>
+    </div>
+
+    <button (click)="lanzar($event)" class="btn-slider">Autor</button>
+</div>
