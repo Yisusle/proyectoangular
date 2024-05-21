@@ -1,3 +1,3 @@
 export var Global ={
-    url: 'http://localhost:3700/api/'
+    url: 'backend.ex0oqns.mongodb.net/portafolio/'
 };
