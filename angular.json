@@ -36,11 +36,11 @@
             ],
             "styles": [
               "src/assets/css/styles.css",
-              "src/assets/js/bxslider-4-4.2.12/dist/jquery.bxslider.min.css"
+              "src/assets/js/bxslider-4-4.2.17/dist/jquery.bxslider.min.css"
             ],
             "scripts": [
               "node_modules/jquery/dist/jquery.min.js",
-              "src/assets/js/bxslider-4-4.2.12/dist/jquery.bxslider.min.js"
+              "src/assets/js/bxslider-4-4.2.17/dist/jquery.bxslider.min.js"
             ]
           },
           "configurations": {
